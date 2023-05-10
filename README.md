@@ -14,6 +14,7 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 - StartUp Consultant
 - Physical Therapist
 - Tarot Reader
+- Feynman Student
 
 ### Pet Vet: An experienced pet vet to help you diagnose and provide potential reasoning and suggestions for your furry companions' health issues.
 <img width="720" alt="Pet Vet Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/9d8d0a30-ba42-4251-beaa-161405a2103c">
