@@ -5,7 +5,7 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 
 ## Usage
 1. Pick the professional service you need.  
-2. Copy and paste the raw content from the corresponding markdown file to the chat dialog in ChatGPT (preferrably GPT-4) or the "system" field of the API.  
+2. Copy and paste the raw content from the corresponding markdown file to the chat dialog in ChatGPT (preferrably GPT-4/Claude+) or the "system" field of the API.  
 3. Then the AI will guide you through the process just like you're interacting with a professional.
 
 ## Roles & Definitions
