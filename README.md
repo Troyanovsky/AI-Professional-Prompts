@@ -16,4 +16,8 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 <img width="720" alt="Resume Coach Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/c6122ee9-d69b-4c45-9fbb-5628f4cf96a4">
 
 ### StartUp Consultant: A startup consultant to help you review and improve your startup business plan.
-<img width="720" alt="StartUp Consultant" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/7d2acd21-fdf5-41fd-94ed-7aafad476053">
+<img width="720" alt="StartUp Consultant Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/7d2acd21-fdf5-41fd-94ed-7aafad476053">
+
+### Physical Therapist: A physical therapist to help you pinpoint your pain and suggest potential stretches/exercises to mitigate the pain.
+<img width="720" alt="Physical Therapist Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/9d35b8a5-ab2b-4bb2-b6a6-a87d5cf7b58d">
+
