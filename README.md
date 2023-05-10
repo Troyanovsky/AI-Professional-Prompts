@@ -1,10 +1,12 @@
 # AI Professional Prompts
-Don't know how to ask questions for high quality responses from GPT? No problem. Let GPT guide you through the process.
+GPT-powered professional services at your service! Don't know how to ask questions for high quality responses from GPT? No problem. Let GPT guide you through the process.
 
-This repo is a collection of GPT prompts that are carefully designed to provide more consistent results. Each of the prompt is designed to guide GPT to perform a session as if it is a professional interacting with a client (you). Once the prompt is entered, GPT will guide you through the process by asking you questions.
+This repo is a collection of GPT prompts that are carefully designed to provide more consistent, high-quality results. Each of the prompt is designed to guide GPT to perform a session as if it is a professional interacting with a client (you). Once the prompt is entered, GPT will guide you through the process by asking you questions.
 
 ## Usage
-Copy and paste the content from the corresponding markdown file to the chat dialog in ChatGPT (preferrably GPT-4) or the "system" field of the API. Then the AI will guide you through the process.
+1. Pick the professional service you need.  
+2. Copy and paste the raw content from the corresponding markdown file to the chat dialog in ChatGPT (preferrably GPT-4) or the "system" field of the API.  
+3. Then the AI will guide you through the process just like you're interacting with a professional.
 
 ## Roles & Definitions
 ### Pet Vet: An experienced pet vet to help you diagnose and provide potential reasoning and suggestions for your furry companions' health issues.
