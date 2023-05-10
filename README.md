@@ -9,6 +9,12 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 3. Then the AI will guide you through the process just like you're interacting with a professional.
 
 ## Roles & Definitions
+- Pet Vet
+- Resume Coach
+- StartUp Consultant
+- Physical Therapist
+- Tarot Reader
+
 ### Pet Vet: An experienced pet vet to help you diagnose and provide potential reasoning and suggestions for your furry companions' health issues.
 <img width="720" alt="Pet Vet Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/9d8d0a30-ba42-4251-beaa-161405a2103c">
 
@@ -21,4 +27,6 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 ### Physical Therapist: A physical therapist to help you pinpoint your pain and suggest potential stretches/exercises to mitigate the pain.
 <img width="720" alt="Physical Therapist Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/88fb0765-2871-4f43-846d-904cb0f02be7">
 
+### Tarot Reader: A
+<img width="720" alt="Tarot Reader Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/5946feb2-8953-450c-b719-0ebe886313f4">
 
