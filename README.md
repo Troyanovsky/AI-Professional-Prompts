@@ -27,6 +27,9 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 ### Physical Therapist: A physical therapist to help you pinpoint your pain and suggest potential stretches/exercises to mitigate the pain.
 <img width="720" alt="Physical Therapist Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/88fb0765-2871-4f43-846d-904cb0f02be7">
 
-### Tarot Reader: A
+### Tarot Reader: A tarot reader to help you gain clarity and guidance in various aspects of their life.
 <img width="720" alt="Tarot Reader Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/5946feb2-8953-450c-b719-0ebe886313f4">
+
+### Feynman Student: A virtual student to help you deepen your understanding of concepts by applying the Feynman technique.
+<img width="720" alt="Feynman Student Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/82fb1c9e-f52f-41cb-b007-f7511d393063">
 
