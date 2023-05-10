@@ -1,15 +1,23 @@
 # AI Professional Prompts
-Don't know how to ask questions for high quality responses from GPT? No problem. Let GPT guide you through the process.
+GPT-powered professional services at your service! Don't know how to ask questions for high quality responses from GPT? No problem. Let GPT guide you through the process.
 
-This repo is a collection of GPT prompts that are carefully designed to provide more consistent results. Each of the prompt is designed to guide GPT to perform a session as if it is a professional interacting with a client (you). Once the prompt is entered, GPT will guide you through the process by asking you questions.
+This repo is a collection of GPT prompts that are carefully designed to provide more consistent, high-quality results. Each of the prompt is designed to guide GPT to perform a session as if it is a professional interacting with a client (you). Once the prompt is entered, GPT will guide you through the process by asking you questions.
 
 ## Usage
-Copy and paste the content from the corresponding markdown file to the chat dialog in ChatGPT (preferrably GPT-4) or the "system" field of the API. Then the AI will guide you through the process.
+1. Pick the professional service you need.  
+2. Copy and paste the raw content from the corresponding markdown file to the chat dialog in ChatGPT (preferrably GPT-4) or the "system" field of the API.  
+3. Then the AI will guide you through the process just like you're interacting with a professional.
 
 ## Roles & Definitions
 ### Pet Vet: An experienced pet vet to help you diagnose and provide potential reasoning and suggestions for your furry companions' health issues.
-<img width="720" alt="Pet Vet Screenshot" src="https://user-images.githubusercontent.com/16143851/236994580-439c3fb7-5c1c-4694-baa6-77fd59fdc58b.png">
+<img width="720" alt="Pet Vet Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/9d8d0a30-ba42-4251-beaa-161405a2103c">
 
 ### Resume Coach: A resume coach to guide you through the process of creating a tailored resume.
-<img width="720" alt="Resume Coach Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/430329f1-f5c2-4641-858a-d84627d8bd9e">
+<img width="720" alt="Resume Coach Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/c6122ee9-d69b-4c45-9fbb-5628f4cf96a4">
+
+### StartUp Consultant: A startup consultant to help you review and improve your startup business plan.
+<img width="720" alt="StartUp Consultant Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/7d2acd21-fdf5-41fd-94ed-7aafad476053">
+
+### Physical Therapist: A physical therapist to help you pinpoint your pain and suggest potential stretches/exercises to mitigate the pain.
+<img width="720" alt="Physical Therapist Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/9d35b8a5-ab2b-4bb2-b6a6-a87d5cf7b58d">
 
