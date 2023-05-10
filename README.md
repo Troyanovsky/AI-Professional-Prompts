@@ -8,8 +8,10 @@ Copy and paste the content from the corresponding markdown file to the chat dial
 
 ## Roles & Definitions
 ### Pet Vet: An experienced pet vet to help you diagnose and provide potential reasoning and suggestions for your furry companions' health issues.
-<img width="720" alt="Pet Vet Screenshot" src="https://user-images.githubusercontent.com/16143851/236994580-439c3fb7-5c1c-4694-baa6-77fd59fdc58b.png">
+<img width="720" alt="Pet Vet Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/9d8d0a30-ba42-4251-beaa-161405a2103c">
 
 ### Resume Coach: A resume coach to guide you through the process of creating a tailored resume.
-<img width="720" alt="Resume Coach Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/430329f1-f5c2-4641-858a-d84627d8bd9e">
+<img width="720" alt="Resume Coach Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/c6122ee9-d69b-4c45-9fbb-5628f4cf96a4">
 
+### StartUp Consultant: A startup consultant to help you review and improve your startup business plan.
+<img width="720" alt="StartUp Consultant" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/7d2acd21-fdf5-41fd-94ed-7aafad476053">
