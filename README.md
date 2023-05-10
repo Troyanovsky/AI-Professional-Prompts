@@ -8,6 +8,8 @@ Copy and paste the content from the corresponding markdown file to the chat dial
 
 ## Roles & Definitions
 ### Pet Vet: An experienced pet vet to help you diagnose and provide potential reasoning and suggestions for your furry companions' health issues.
-<img width="1440" alt="Screenshot 2023-05-09 at 12 29 27" src="https://user-images.githubusercontent.com/16143851/236994580-439c3fb7-5c1c-4694-baa6-77fd59fdc58b.png">
+<img width="720" alt="Pet Vet Screenshot" src="https://user-images.githubusercontent.com/16143851/236994580-439c3fb7-5c1c-4694-baa6-77fd59fdc58b.png">
 
 ### Resume Coach: A resume coach to guide you through the process of creating a tailored resume.
+<img width="720" alt="Resume Coach Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/430329f1-f5c2-4641-858a-d84627d8bd9e">
+
