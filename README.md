@@ -15,6 +15,7 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 - Physical Therapist
 - Tarot Reader
 - Feynman Student
+- Nutritionist
 
 ### Pet Vet: An experienced pet vet to help you diagnose and provide potential reasoning and suggestions for your furry companions' health issues.
 <img width="720" alt="Pet Vet Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/9d8d0a30-ba42-4251-beaa-161405a2103c">
@@ -33,4 +34,6 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 
 ### Feynman Student: A virtual student to help you deepen your understanding of concepts by applying the Feynman technique.
 <img width="720" alt="Feynman Student Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/82fb1c9e-f52f-41cb-b007-f7511d393063">
+
+### Nutritionist: A nutritionist to help you make a personalized nutrition plan based on your goal and preferences.
 
