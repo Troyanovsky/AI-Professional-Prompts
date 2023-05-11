@@ -37,3 +37,5 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 
 ### Nutritionist: A nutritionist to help you make a personalized nutrition plan based on your goal and preferences.
 
+
+### Personal Trainer: A personal trainer to help you make an exercise plan based on your goal and preferences.
