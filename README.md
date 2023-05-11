@@ -36,6 +36,7 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 <img width="720" alt="Feynman Student Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/82fb1c9e-f52f-41cb-b007-f7511d393063">
 
 ### Nutritionist: A nutritionist to help you make a personalized nutrition plan based on your goal and preferences.
-
+<img width="720" alt="Nutritionist Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/ea36eef9-0b34-429c-b2e6-cff7bc88bcc9">
 
 ### Personal Trainer: A personal trainer to help you make an exercise plan based on your goal and preferences.
+<img width="720" alt="Personal Trainer Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/7c4d5fe0-1dd4-42c3-bcda-bbeaf4a731ac">
