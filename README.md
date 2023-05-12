@@ -17,6 +17,8 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 - Feynman Student
 - Nutritionist
 - Personal Trainer
+- Marketing Consultant
+- College Admission Consultant
 
 ### Pet Vet: An experienced pet vet to help you diagnose and provide potential reasoning and suggestions for your furry companions' health issues.
 <img width="720" alt="Pet Vet Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/9d8d0a30-ba42-4251-beaa-161405a2103c">
@@ -41,3 +43,7 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 
 ### Personal Trainer: A personal trainer to help you make an exercise plan based on your goal and preferences.
 <img width="720" alt="Personal Trainer Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/7c4d5fe0-1dd4-42c3-bcda-bbeaf4a731ac">
+
+### Marketing Consultant: A marketing consultant to help you review and improve your marketing plan.
+
+### College Admission Consultant: A college admission consultant to help you pick majors, colleges, and refine your personal statement.
