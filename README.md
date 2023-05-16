@@ -21,6 +21,7 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 - College Admission Consultant
 - Boglehead Financial Consultant
 - Social Media Strategist
+- SEO Specialist (Recommended to use with Web Browsing Plug-in)
 
 ### Pet Vet: An experienced pet vet to help you diagnose and provide potential reasoning and suggestions for your furry companions' health issues.
 <img width="720" alt="Pet Vet Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/9d8d0a30-ba42-4251-beaa-161405a2103c">
@@ -53,3 +54,5 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 ### Boglehead Financial Consultant: A financial consultant to help you make a persoanlized financial plan based on the Boglehead philosophy and your goal.
 
 ### Social Media Strategist: A social media strategist to help you review and improve your social media strategy.
+
+### SEO Specialist: An SEO specialist to help you review and improve your SEO strategy for your website. (Recommended to use with Web Browsing Plug-in)
