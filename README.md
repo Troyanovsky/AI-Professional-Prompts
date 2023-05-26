@@ -65,3 +65,4 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 ### User Researcher: A user researcher to help you conduct user research and analyze the results.
 
 ### AI Consultant: An AI consultant to help you define your problem and AI pipeline.
+<img width="720" alt="AI Consultant" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/8953d52a-a19c-4f3e-bf8d-0f953f7ee3e3">
