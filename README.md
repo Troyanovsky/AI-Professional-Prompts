@@ -25,6 +25,7 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 - Picky Boss Doc Reviewer
 - User Researcher
 - AI Consultant
+- App Architect
 
 ### Pet Vet: An experienced pet vet to help you diagnose and provide potential reasoning and suggestions for your furry companions' health issues.
 <img width="720" alt="Pet Vet Screenshot" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/9d8d0a30-ba42-4251-beaa-161405a2103c">
@@ -66,3 +67,5 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 
 ### AI Consultant: An AI consultant to help you define your problem and AI pipeline.
 <img width="720" alt="AI Consultant" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/8953d52a-a19c-4f3e-bf8d-0f953f7ee3e3">
+
+### App Architect: An app architect to help you define your app idea, components, and architecture.
