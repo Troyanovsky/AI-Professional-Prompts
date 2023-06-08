@@ -15,6 +15,7 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 - Nutritionist
 - Personal Trainer
 - Feynman Student
+- SQL Tutor
 - Resume Coach
 - StartUp Consultant
 - College Admission Consultant
@@ -69,3 +70,5 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 <img width="720" alt="AI Consultant" src="https://github.com/Troyanovsky/AI-Professional-Prompts/assets/16143851/8953d52a-a19c-4f3e-bf8d-0f953f7ee3e3">
 
 ### App Architect: An app architect to help you define your app idea, components, and architecture.
+
+### SQL Tutor: A SQL tutor to give you a practice SQL problem based on your profession and level. It will analyze your answer and provide feedback on how to improve.
