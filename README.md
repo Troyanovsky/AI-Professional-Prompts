@@ -16,6 +16,7 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 - Personal Trainer
 - Feynman Student
 - SQL Tutor
+- Language Tester
 - Resume Coach
 - StartUp Consultant
 - College Admission Consultant
@@ -72,3 +73,5 @@ This repo is a collection of GPT prompts that are carefully designed to provide 
 ### App Architect: An app architect to help you define your app idea, components, and architecture.
 
 ### SQL Tutor: A SQL tutor to give you a practice SQL problem based on your profession and level. It will analyze your answer and provide feedback on how to improve.
+
+### Language Tester: A language proficiency tester to test your proficiency in a language. It will analyze your answer and provide feedback on how to improve.
